@@ -1,0 +1,328 @@
+2016-06-30 15:56:54 Error: [Cake\Console\Exception\MissingShellException] Shell class for "Schema" could not be found.
+Exception Attributes: array (
+  'class' => 'Schema',
+)
+Stack Trace:
+#0 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(218): Cake\Console\ShellDispatcher->findShell('schema')
+#1 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 /home/pierre/Programming/jami3ti2/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
+2016-07-01 07:55:48 Error: [Cake\Console\Exception\MissingShellException] Shell class for "Bale" could not be found.
+Exception Attributes: array (
+  'class' => 'Bale',
+)
+Stack Trace:
+#0 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(218): Cake\Console\ShellDispatcher->findShell('bale')
+#1 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 /home/pierre/Programming/jami3ti2/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
+2016-07-01 09:33:51 Warning: Warning (2): include(/home/pierre/Programming/jami3ti2/plugins/ApplicantProfile/config/bootstrap.php): failed to open stream: No such file or directory in [/home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Core/Plugin.php, line 390]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Core\Plugin::_includeFile() - CORE/src/Core/Plugin.php, line 390
+Cake\Core\Plugin::_includeFile() - CORE/src/Core/Plugin.php, line 390
+Cake\Core\Plugin::bootstrap() - CORE/src/Core/Plugin.php, line 316
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 174
+include - ROOT/config/bootstrap.php, line 215
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2016-07-01 09:33:51 Warning: Warning (2): include(): Failed opening '/home/pierre/Programming/jami3ti2/plugins/ApplicantProfile/config/bootstrap.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in [/home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Core/Plugin.php, line 390]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Core\Plugin::_includeFile() - CORE/src/Core/Plugin.php, line 390
+Cake\Core\Plugin::_includeFile() - CORE/src/Core/Plugin.php, line 390
+Cake\Core\Plugin::bootstrap() - CORE/src/Core/Plugin.php, line 316
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 174
+include - ROOT/config/bootstrap.php, line 215
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2016-07-01 09:35:05 Warning: Warning (2): include(/home/pierre/Programming/jami3ti2/plugins/ApplicantProfile/config/bootstrap.php): failed to open stream: No such file or directory in [/home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Core/Plugin.php, line 390]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Core\Plugin::_includeFile() - CORE/src/Core/Plugin.php, line 390
+Cake\Core\Plugin::_includeFile() - CORE/src/Core/Plugin.php, line 390
+Cake\Core\Plugin::bootstrap() - CORE/src/Core/Plugin.php, line 316
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 174
+include - ROOT/config/bootstrap.php, line 215
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2016-07-01 09:35:05 Warning: Warning (2): include(): Failed opening '/home/pierre/Programming/jami3ti2/plugins/ApplicantProfile/config/bootstrap.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in [/home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Core/Plugin.php, line 390]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Core\Plugin::_includeFile() - CORE/src/Core/Plugin.php, line 390
+Cake\Core\Plugin::_includeFile() - CORE/src/Core/Plugin.php, line 390
+Cake\Core\Plugin::bootstrap() - CORE/src/Core/Plugin.php, line 316
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 174
+include - ROOT/config/bootstrap.php, line 215
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2016-07-01 09:35:17 Warning: Warning (2): include(/home/pierre/Programming/jami3ti2/plugins/ApplicantProfile/config/bootstrap.php): failed to open stream: No such file or directory in [/home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Core/Plugin.php, line 390]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Core\Plugin::_includeFile() - CORE/src/Core/Plugin.php, line 390
+Cake\Core\Plugin::_includeFile() - CORE/src/Core/Plugin.php, line 390
+Cake\Core\Plugin::bootstrap() - CORE/src/Core/Plugin.php, line 316
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 174
+include - ROOT/config/bootstrap.php, line 215
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2016-07-01 09:35:17 Warning: Warning (2): include(): Failed opening '/home/pierre/Programming/jami3ti2/plugins/ApplicantProfile/config/bootstrap.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in [/home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Core/Plugin.php, line 390]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Core\Plugin::_includeFile() - CORE/src/Core/Plugin.php, line 390
+Cake\Core\Plugin::_includeFile() - CORE/src/Core/Plugin.php, line 390
+Cake\Core\Plugin::bootstrap() - CORE/src/Core/Plugin.php, line 316
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 174
+include - ROOT/config/bootstrap.php, line 215
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2016-07-01 17:36:52 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jami3ti2.institutions_higher_educations' doesn't exist
+Stack Trace:
+#0 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'institutions_hi...', Array, Object(Cake\Database\Schema\Table))
+#1 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(64): Cake\Database\Schema\Collection->describe('institutions_hi...', Array)
+#2 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(430): Cake\Database\Schema\CachedCollection->describe('institutions_hi...')
+#3 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(506): Cake\ORM\Table->schema()
+#4 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(206): Cake\ORM\Table->primaryKey()
+#5 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(124): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#6 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(109): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'institutions_hi...', 'InstitutionsHig...')
+#7 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('InstitutionsHig...')
+#8 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/BakeShell.php(250): Bake\Shell\Task\ModelTask->main('InstitutionsHig...')
+#9 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Collection/CollectionTrait.php(51): Bake\Shell\BakeShell->Bake\Shell\{closure}('institutions_hi...', 0)
+#10 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/BakeShell.php(253): Cake\Collection\Collection->each(Object(Closure))
+#11 [internal function]: Bake\Shell\BakeShell->all('institutions_hi...')
+#12 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(444): call_user_func_array(Array, Array)
+#13 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(221): Cake\Console\Shell->runCommand(Array, true, Array)
+#14 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#15 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#16 /home/pierre/Programming/jami3ti2/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#17 {main}
+
+
+2016-07-01 18:16:07 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jami3ti2.education_desired_field_of_study_cores' doesn't exist
+Stack Trace:
+#0 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'education_desir...', Array, Object(Cake\Database\Schema\Table))
+#1 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(64): Cake\Database\Schema\Collection->describe('education_desir...', Array)
+#2 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(430): Cake\Database\Schema\CachedCollection->describe('education_desir...')
+#3 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(506): Cake\ORM\Table->schema()
+#4 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(206): Cake\ORM\Table->primaryKey()
+#5 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(124): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#6 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(109): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'education_desir...', 'EducationDesire...')
+#7 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('EducationDesire...')
+#8 [internal function]: Bake\Shell\Task\ModelTask->main('education_desir...')
+#9 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(456): call_user_func_array(Array, Array)
+#10 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(450): Cake\Console\Shell->runCommand(Array, false)
+#11 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(221): Cake\Console\Shell->runCommand(Array, true, Array)
+#12 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#13 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#14 /home/pierre/Programming/jami3ti2/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#15 {main}
+
+
+2016-07-01 18:17:58 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jami3ti2.applicant_desired_education' doesn't exist
+Stack Trace:
+#0 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'applicant_desir...', Array, Object(Cake\Database\Schema\Table))
+#1 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(64): Cake\Database\Schema\Collection->describe('applicant_desir...', Array)
+#2 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(430): Cake\Database\Schema\CachedCollection->describe('applicant_desir...')
+#3 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(506): Cake\ORM\Table->schema()
+#4 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(206): Cake\ORM\Table->primaryKey()
+#5 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(124): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#6 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(109): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'applicant_desir...', 'ApplicantDesire...')
+#7 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('ApplicantDesire...')
+#8 [internal function]: Bake\Shell\Task\ModelTask->main('applicant_desir...')
+#9 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(456): call_user_func_array(Array, Array)
+#10 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(450): Cake\Console\Shell->runCommand(Array, false)
+#11 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(221): Cake\Console\Shell->runCommand(Array, true, Array)
+#12 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#13 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#14 /home/pierre/Programming/jami3ti2/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#15 {main}
+
+
+2016-07-01 18:18:16 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jami3ti2.applicant_education' doesn't exist
+Stack Trace:
+#0 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'applicant_educa...', Array, Object(Cake\Database\Schema\Table))
+#1 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(64): Cake\Database\Schema\Collection->describe('applicant_educa...', Array)
+#2 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(430): Cake\Database\Schema\CachedCollection->describe('applicant_educa...')
+#3 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(506): Cake\ORM\Table->schema()
+#4 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(206): Cake\ORM\Table->primaryKey()
+#5 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(124): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#6 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(109): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'applicant_educa...', 'ApplicantEducat...')
+#7 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('ApplicantEducat...')
+#8 [internal function]: Bake\Shell\Task\ModelTask->main('applicant_educa...')
+#9 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(456): call_user_func_array(Array, Array)
+#10 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(450): Cake\Console\Shell->runCommand(Array, false)
+#11 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(221): Cake\Console\Shell->runCommand(Array, true, Array)
+#12 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#13 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#14 /home/pierre/Programming/jami3ti2/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#15 {main}
+
+
+2016-07-02 10:12:15 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jami3ti2.donation_campains' doesn't exist
+Stack Trace:
+#0 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'donation_campai...', Array, Object(Cake\Database\Schema\Table))
+#1 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(64): Cake\Database\Schema\Collection->describe('donation_campai...', Array)
+#2 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(430): Cake\Database\Schema\CachedCollection->describe('donation_campai...')
+#3 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(506): Cake\ORM\Table->schema()
+#4 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(206): Cake\ORM\Table->primaryKey()
+#5 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(124): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#6 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(109): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'donation_campai...', 'DonationCampain...')
+#7 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('DonationCampain...')
+#8 [internal function]: Bake\Shell\Task\ModelTask->main('donation_campai...')
+#9 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(456): call_user_func_array(Array, Array)
+#10 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(450): Cake\Console\Shell->runCommand(Array, false)
+#11 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(221): Cake\Console\Shell->runCommand(Array, true, Array)
+#12 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#13 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#14 /home/pierre/Programming/jami3ti2/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#15 {main}
+
+
+2016-07-02 10:13:16 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jami3ti2.lamguages' doesn't exist
+Stack Trace:
+#0 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'lamguages', Array, Object(Cake\Database\Schema\Table))
+#1 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(64): Cake\Database\Schema\Collection->describe('lamguages', Array)
+#2 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(430): Cake\Database\Schema\CachedCollection->describe('lamguages')
+#3 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(506): Cake\ORM\Table->schema()
+#4 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(206): Cake\ORM\Table->primaryKey()
+#5 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(124): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#6 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(109): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'lamguages', 'Lamguages')
+#7 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('Lamguages')
+#8 [internal function]: Bake\Shell\Task\ModelTask->main('lamguages')
+#9 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(456): call_user_func_array(Array, Array)
+#10 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(450): Cake\Console\Shell->runCommand(Array, false)
+#11 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(221): Cake\Console\Shell->runCommand(Array, true, Array)
+#12 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#13 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#14 /home/pierre/Programming/jami3ti2/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#15 {main}
+
+
+2016-07-07 08:23:41 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jami3ti2.applicant_desired_education_countries' doesn't exist
+Stack Trace:
+#0 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'applicant_desir...', Array, Object(Cake\Database\Schema\Table))
+#1 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(64): Cake\Database\Schema\Collection->describe('applicant_desir...', Array)
+#2 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(430): Cake\Database\Schema\CachedCollection->describe('applicant_desir...')
+#3 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(506): Cake\ORM\Table->schema()
+#4 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php(288): Cake\ORM\Table->primaryKey()
+#5 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php(147): Bake\Shell\Task\TemplateTask->_loadController()
+#6 [internal function]: Bake\Shell\Task\TemplateTask->main('applicant_desir...')
+#7 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(456): call_user_func_array(Array, Array)
+#8 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(450): Cake\Console\Shell->runCommand(Array, false)
+#9 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(221): Cake\Console\Shell->runCommand(Array, true, Array)
+#10 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#11 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#12 /home/pierre/Programming/jami3ti2/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#13 {main}
+
+
+2016-07-15 12:03:16 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jami3ti2.donation_campaings' doesn't exist
+Stack Trace:
+#0 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'donation_campai...', Array, Object(Cake\Database\Schema\Table))
+#1 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(64): Cake\Database\Schema\Collection->describe('donation_campai...', Array)
+#2 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(430): Cake\Database\Schema\CachedCollection->describe('donation_campai...')
+#3 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(506): Cake\ORM\Table->schema()
+#4 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(206): Cake\ORM\Table->primaryKey()
+#5 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(124): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#6 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(109): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'donation_campai...', 'DonationCampain...')
+#7 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('DonationCampain...')
+#8 [internal function]: Bake\Shell\Task\ModelTask->main('DonationCampain...')
+#9 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(456): call_user_func_array(Array, Array)
+#10 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(450): Cake\Console\Shell->runCommand(Array, false)
+#11 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(221): Cake\Console\Shell->runCommand(Array, true, Array)
+#12 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#13 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#14 /home/pierre/Programming/jami3ti2/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#15 {main}
+
+
+2016-07-16 09:05:48 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jami3ti2.opportunity_eductations' doesn't exist
+Stack Trace:
+#0 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'opportunity_edu...', Array, Object(Cake\Database\Schema\Table))
+#1 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(64): Cake\Database\Schema\Collection->describe('opportunity_edu...', Array)
+#2 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(430): Cake\Database\Schema\CachedCollection->describe('opportunity_edu...')
+#3 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(506): Cake\ORM\Table->schema()
+#4 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php(288): Cake\ORM\Table->primaryKey()
+#5 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php(147): Bake\Shell\Task\TemplateTask->_loadController()
+#6 [internal function]: Bake\Shell\Task\TemplateTask->main('OpportunityEduc...')
+#7 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(456): call_user_func_array(Array, Array)
+#8 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(450): Cake\Console\Shell->runCommand(Array, false)
+#9 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(221): Cake\Console\Shell->runCommand(Array, true, Array)
+#10 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#11 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#12 /home/pierre/Programming/jami3ti2/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#13 {main}
+
+
+2016-07-16 09:05:55 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jami3ti2.opportunity_eductation_types' doesn't exist
+Stack Trace:
+#0 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'opportunity_edu...', Array, Object(Cake\Database\Schema\Table))
+#1 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(64): Cake\Database\Schema\Collection->describe('opportunity_edu...', Array)
+#2 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(430): Cake\Database\Schema\CachedCollection->describe('opportunity_edu...')
+#3 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(506): Cake\ORM\Table->schema()
+#4 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php(288): Cake\ORM\Table->primaryKey()
+#5 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php(147): Bake\Shell\Task\TemplateTask->_loadController()
+#6 [internal function]: Bake\Shell\Task\TemplateTask->main('OpportunityEduc...')
+#7 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(456): call_user_func_array(Array, Array)
+#8 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(450): Cake\Console\Shell->runCommand(Array, false)
+#9 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(221): Cake\Console\Shell->runCommand(Array, true, Array)
+#10 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#11 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#12 /home/pierre/Programming/jami3ti2/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#13 {main}
+
+
+2016-07-16 09:06:19 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jami3ti2.opportunity_eductations' doesn't exist
+Stack Trace:
+#0 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'opportunity_edu...', Array, Object(Cake\Database\Schema\Table))
+#1 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(64): Cake\Database\Schema\Collection->describe('opportunity_edu...', Array)
+#2 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(430): Cake\Database\Schema\CachedCollection->describe('opportunity_edu...')
+#3 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(506): Cake\ORM\Table->schema()
+#4 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php(288): Cake\ORM\Table->primaryKey()
+#5 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php(147): Bake\Shell\Task\TemplateTask->_loadController()
+#6 [internal function]: Bake\Shell\Task\TemplateTask->main('OpportunityEduc...')
+#7 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(456): call_user_func_array(Array, Array)
+#8 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(450): Cake\Console\Shell->runCommand(Array, false)
+#9 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(221): Cake\Console\Shell->runCommand(Array, true, Array)
+#10 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#11 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#12 /home/pierre/Programming/jami3ti2/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#13 {main}
+
+
+2016-07-16 09:06:59 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jami3ti2.opportunity_education_institutions' doesn't exist
+Stack Trace:
+#0 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'opportunity_edu...', Array, Object(Cake\Database\Schema\Table))
+#1 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(64): Cake\Database\Schema\Collection->describe('opportunity_edu...', Array)
+#2 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(430): Cake\Database\Schema\CachedCollection->describe('opportunity_edu...')
+#3 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/ORM/Table.php(506): Cake\ORM\Table->schema()
+#4 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php(288): Cake\ORM\Table->primaryKey()
+#5 /home/pierre/Programming/jami3ti2/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php(147): Bake\Shell\Task\TemplateTask->_loadController()
+#6 [internal function]: Bake\Shell\Task\TemplateTask->main('OpportunityEduc...')
+#7 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(456): call_user_func_array(Array, Array)
+#8 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/Shell.php(450): Cake\Console\Shell->runCommand(Array, false)
+#9 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(221): Cake\Console\Shell->runCommand(Array, true, Array)
+#10 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#11 /home/pierre/Programming/jami3ti2/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#12 /home/pierre/Programming/jami3ti2/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#13 {main}
+
+
